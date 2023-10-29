@@ -1,0 +1,19 @@
+
+# Output directories
+app/**/bin/
+app/**/obj/
+
+# Visual Studio files
+**/.vs/
+**/.vscode/
+**/*.vcxproj*
+**/*.sln
+
+# GNU Make files
+**/Makefile
+**/*.make
+
+# ImGUI files
+**/imgui.ini
+
+
